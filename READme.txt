@@ -1,0 +1,1 @@
+This is a template for a static hosted website hosted on aws.
